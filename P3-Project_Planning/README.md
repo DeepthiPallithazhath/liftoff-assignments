@@ -11,7 +11,7 @@ For this assignment, you'll create some initial plans for your project.
 [login](../images/login.jpg)
 [register](../images/register.jpg)
 [CreateCategory](../images/CreateCategory.jpg)
-[ViewExpenseHistory](../images/view expense historu.jpg)
+
 
 
 ### Project Tracker
