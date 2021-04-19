@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[login](../images/login.jpg)
-[register](../images/register.jpg)
-[CreateCategory](../images/CreateCategory.jpg)
+1.[login](../images/login.jpg)
+2.[register](../images/register.jpg)
+3.[CreateCategory](../images/CreateCategory.jpg)
 
 
 
