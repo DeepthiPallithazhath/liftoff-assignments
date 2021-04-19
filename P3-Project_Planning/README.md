@@ -8,11 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
+[login](../images/login.jpg)
+[register](../images/register.jpg)
+[CreateCategory](../images/CreateCategory.jpg)
+[ViewExpenseHistory](../images/view expense historu.jpg)
 
-![Image1](../images/CreateCategory.jpg)
-![Image1](../images/login.jpg)
-![Image1](../images/register.jpg)
-![Image1](../images/view expense history.jpg)
 
 ### Project Tracker
 
