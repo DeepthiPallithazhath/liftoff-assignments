@@ -4,7 +4,7 @@ Our project is a budget planner that allows users track their expenses by catego
 
 2.User Login - Users will be able to login after creating a profile.
  
- 3.Add/Update Expenses
+3.Add/Update Expenses
  
  -Users will be able to add expenses in the provided respective categories
  
@@ -12,7 +12,7 @@ Our project is a budget planner that allows users track their expenses by catego
  
  -Delete the expense.
  
- 4.View Financial Chart
+4.View Financial Chart
  
  -Clients will be able to see all the entered category information in a interactive pie chart.
  
